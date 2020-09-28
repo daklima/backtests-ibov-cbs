@@ -1,7 +1,7 @@
 # backtests-ibov-cbs-repo
 *Backtests - Compra/Venda Ibovespa após circuit breakers.*
 
----
+
 ## Backtests de Compra Após Circuit Breakers:
 
 Comparação de três estratégias:
@@ -14,7 +14,6 @@ Comparação de três estratégias:
 1. Venda no preço de fechamento dos dias com circuit breakers. Ficar de fora por um mês esperando uma recuperação, deixando o dinheiro no CDI nesse período. Recomprar o índice um mês (21 dias úteis) depois.
 5. Mesmo da estratégia 1, mas considerando impostos.
 
----
 
 ## Dados retirados de:
 
