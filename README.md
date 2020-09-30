@@ -1,4 +1,4 @@
-# backtests-ibov-cbs-repo
+# backtests-ibov-cbs
 *Backtests - Compra/Venda Ibovespa após circuit breakers.*
 
 
